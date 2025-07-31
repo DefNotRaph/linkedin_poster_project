@@ -1,0 +1,27 @@
+{
+    "author": "urn:li:person:8675309",
+    "lifecycleState": "PUBLISHED",
+    "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+            "shareCommentary": {
+                "text": "Learning more about LinkedIn by reading the LinkedIn Blog!"
+            },
+            "shareMediaCategory": "ARTICLE",
+            "media": [
+                {
+                    "status": "READY",
+                    "description": {
+                        "text": "Official LinkedIn Blog - Your source for insights and information about LinkedIn."
+                    },
+                    "originalUrl": "https://blog.linkedin.com/",
+                    "title": {
+                        "text": "Official LinkedIn Blog"
+                    }
+                }
+            ]
+        }
+    },
+    "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+    }
+}

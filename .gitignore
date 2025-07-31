@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+*.env
+*.venv
+
+# Editor files
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Token or credential files
+*.log
+*.pem
+*.key
+*.crt
+*.token
+secrets.env
+secrets/
+
+# Python cache
+*.pyo
+*.pyd
+
+# OS-specific
+ehthumbs.db
+desktop.ini
+
+# Postman or other tool configs
+.postman/
+
+# Node (if using for frontend)
+node_modules/
