@@ -13,11 +13,14 @@ a scheduled app that uses chatGPT to create linkedin posts and publish them on b
     *Note* Omit Step 3: For this step I setup the Token using [Link](https://www.linkedin.com/developers/tools/oauth?clientId=78nia6xvikl8fe)  
     *Note* be sure and request a token with email and posting  
 
-
 Notes:
 LinkedIn company site: https://www.linkedin.com/company/108067801  
 LinkedIn Poster Project APP: https://www.linkedin.com/developers/apps/224179867  
 
+### OpenAPI
+**Step 1:** Go to open api and select create new secret key copy and save to environment[Link](https://platform.openai.com/api-keys)
+
+## APP Structure
 
 
 ## References
