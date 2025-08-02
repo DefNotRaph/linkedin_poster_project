@@ -5,11 +5,11 @@ a scheduled app that uses chatGPT to create linkedin posts and publish them on b
 ## Setup
 ### LinkedIn API
 
-Step 0: (Optional) setup a linkedIn company, you will need this to create a project  
-Step 1: Setup a linkedIn app [Link](https://www.linkedin.com/developers/apps?src=re-other&veh=learn.microsoft.com%7Cre-other)  
-Step 2: Product > Add Sharing  
-Step 3: Auth > Oauth2.0 tools > create token  
-Step 4: (Optional) setup linkedin postman [Link](https://learn.microsoft.com/en-us/linkedin/shared/authentication/postman-getting-started)  
+**Step 0:** (Optional) setup a linkedIn company, you will need this to create a project  
+**Step 1:** Setup a linkedIn app [Link](https://www.linkedin.com/developers/apps?src=re-other&veh=learn.microsoft.com%7Cre-other)  
+**Step 2:** Product > Add Sharing  
+**Step 3:** Auth > Oauth2.0 tools > create token  
+**Step 4:** (Optional) setup linkedin postman [Link](https://learn.microsoft.com/en-us/linkedin/shared/authentication/postman-getting-started)  
     *Note* Omit Step 3: For this step I setup the Token using [Link](https://www.linkedin.com/developers/tools/oauth?clientId=78nia6xvikl8fe)  
     *Note* be sure and request a token with email and posting  
 
